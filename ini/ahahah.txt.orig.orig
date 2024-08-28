@@ -8,7 +8,9 @@ random_string = lorem.sentence()
 
 # Print the random string
 print(random_string)
-p
-p
-p
+<<<<<<< HEAD
 pp
+=======
+p
+p
+>>>>>>> CategoryProductSupplierBranch
