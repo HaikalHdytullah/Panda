@@ -9,7 +9,12 @@ random_string = lorem.sentence()
 # Print the random string
 print(random_string)
 <<<<<<< HEAD
+<<<<<<< HEAD
 p
 =======
 ppp
 >>>>>>> 131b882 (aaaa)
+=======
+ppp
+p
+>>>>>>> 33f0631 (aaaaaaa merge)
