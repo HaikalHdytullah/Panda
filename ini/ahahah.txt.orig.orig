@@ -9,4 +9,8 @@ random_string = lorem.sentence()
 # Print the random string
 print(random_string)
 ppp
+<<<<<<< HEAD
 p
+=======
+p
+>>>>>>> 33f06313a671d79a2f6e176c4bffb9980e37f8f0
